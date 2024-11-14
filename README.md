@@ -1,45 +1,24 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddique212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddique212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">AB Siddique <br>Data Analyst / BI Analyst<br>Trainer / Consultant</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3 align="left">About me<br>I'm a dedicated and analytical individual with a passion for turning data into actionable insights. My expertise spans SQL, MySQL, Python, Excel, and Power BI. I'm driven by the goal of excelling in a dynamic Analyst role within a forward-thinking company, where I can leverage my skills to make a meaningful impact.</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-</div>
+<p align="left">Data Tools: Excel, Google Sheets, Power BI, Looker Studio<br>Programming & Scripting: Python<br>Database Management: MySQL<br>Data Visualization & Reporting: Power BI, Looker Studio, Advanced Excel<br>Soft Skills: Analytical Thinking, Problem Solving, Continuous Learning</p>
+
+###
+
+<h5 align="left">📈 Projects<br><br>Danny's Diner SQL Analysis<br><br>Conducted in-depth analysis of customer behavior and sales data using SQL.<br>Provided insights into customer loyalty and product preferences.<br>Supermarket Sales Data Analysis<br><br>Analyzed sales data from a supermarket to uncover trends and customer spending patterns.<br>Created visualizations to help the supermarket's management make informed decisions.<br>Power BI Dashboard for Sales Insights<br><br>Developed an interactive dashboard to visualize sales data and track key performance indicators.<br>Focused on identifying top-performing product lines and customer segments.<br>Python Data Cleaning and Transformation<br><br>Cleaned and transformed messy datasets using Python for better analysis.<br>Applied data wrangling techniques to prepare data for machine learning models.<br>Ongoing Projects<br><br>Currently working on additional data analysis projects to deepen my expertise and explore new areas within data analytics.<br>Engaged in developing new dashboards and models to address various business challenges and enhance data-driven decision-making.</h5>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Siddique212/Siddique212/output/snake.svg" alt="Snake animation" />
 
 ###
